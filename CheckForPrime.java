@@ -1,5 +1,3 @@
-package practiceJava;
-
 import java.util.Scanner;
 
 public class CheckForPrime {
